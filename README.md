@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
-eu peguei o jogo do mago e troquei os goblins por gatinhos, ficou muito legal ;-;
+- eu peguei o jogo do mago e troquei os goblins por gatinhos, ficou muito legal ;-;
 </p>
  
 
