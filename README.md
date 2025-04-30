@@ -10,6 +10,6 @@
  
 
 <p align="left">
-  🦄 LINK DO JOGO :D: **Coloque as linguagens que você desenvolve.**
+  😻 LINK DO JOGO :D: 
 </p>
 
