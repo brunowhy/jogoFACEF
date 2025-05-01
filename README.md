@@ -17,7 +17,7 @@
  
 </p>
 <p align = "left">
-aqui umas imagens do jogo e do banco de dados ;-;
+
  
 <table>
   <tr>
@@ -43,6 +43,7 @@ aqui umas imagens do jogo e do banco de dados ;-;
         alt="Github Stats"
       />
     </td>
+ 
   </tr>
 </table>
  
