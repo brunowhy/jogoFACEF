@@ -18,5 +18,7 @@
 </p>
 <p align = "left">
 - aqui umas imagens do jogo e do banco de dados ;-;
+![Captura de tela 2025-04-30 215912](https://github.com/user-attachments/assets/ece8b5e1-75f8-462d-825d-f8b714c7f59d)
+
 
 </p>
