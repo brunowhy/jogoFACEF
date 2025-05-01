@@ -18,6 +18,8 @@
 </p>
 <p align = "left">
 - aqui umas imagens do jogo e do banco de dados ;-;
+ <img src="https://github.com/user-attachments/assets/ece8b5e1-75f8-462d-825d-f8b714c7f59d" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+
 ![Captura de tela 2025-04-30 215912](https://github.com/user-attachments/assets/ece8b5e1-75f8-462d-825d-f8b714c7f59d)
 
 
