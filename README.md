@@ -12,7 +12,7 @@
  
 
 <p align="left">
-  😻 LINK DO JOGO: [**AQUI**](https://bondpq.itch.io/)
+  😻 LINK DO JOGO: [AQUI](https://bondpq.itch.io/)
  
 </p>
 
