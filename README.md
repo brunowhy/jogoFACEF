@@ -12,18 +12,40 @@
  
 
 <p align="left">
-  😻 LINK DO JOGO: https://bondpq.itch.io/
+ 😻 LINK DO JOGO: https://bondpq.itch.io/
   
  
 </p>
 <p align = "left">
- aqui umas imagens do jogo e do banco de dados ;-;
- <img src="https://github.com/user-attachments/assets/ece8b5e1-75f8-462d-825d-f8b714c7f59d" alt="ilustração de um computador" width="200px" align="left">
- <img src="https://github.com/user-attachments/assets/65b72586-ce17-4c73-8566-a13284c6ed22" alt="ilustração de um computador" width="200px" align="left">
- <img src="https://github.com/user-attachments/assets/eea6e1fb-a210-4747-85a7-97562a236cf1" alt="ilustração de um computador" width="200px" align="left">
-<img src="https://github.com/user-attachments/assets/85aece82-efd1-4e1d-bfdc-533249b273f3" alt="ilustração de um computador" width="200px" align="left">
-<img src="https://github.com/user-attachments/assets/87746da4-b8b9-4e59-8812-5f5365d9d3dc" alt="ilustração de um computador" width="200px" align="left">
-</p>
+aqui umas imagens do jogo e do banco de dados ;-;
+ 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github.com/user-attachments/assets/65b72586-ce17-4c73-8566-a13284c6ed22"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github.com/user-attachments/assets/eea6e1fb-a210-4747-85a7-97562a236cf1"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github.com/user-attachments/assets/87746da4-b8b9-4e59-8812-5f5365d9d3dc" alt="ilustração de um computador"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+ 
 
 
 
