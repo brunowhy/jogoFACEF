@@ -17,6 +17,7 @@
  
 </p>
 <p align = "left">
+(nenhum gatinho foi ferido durante a criação deste jogo. todas as criaturas fofas envolvidas foram tratadas com muito carinho, petiscos e sonecas bem longas. esse jogo é 100% livre de arranhões e miados de protesto. jogue tranquilo! 🐾)
 
  
 <table>
