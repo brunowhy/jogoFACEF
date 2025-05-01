@@ -12,7 +12,7 @@
  
 
 <p align="left">
-  😻 LINK DO JOGO: [**AQUI**](bondpq.itch.io) • Contract \
+  😻 LINK DO JOGO: [**AQUI**](bondpq.itch.io)
  
 </p>
 
